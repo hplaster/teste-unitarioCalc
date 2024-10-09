@@ -21,4 +21,4 @@ Este repositório contém o código fonte e os testes unitários para uma calcul
 
 ## Estrutura do Projeto
 1. **calculadora.js:** Contém o código fonte da calculadora.
-2. **__tests__:** Contém os testes unitários.
+2. **\_\_tests\_\_:** Contém os testes unitários.
